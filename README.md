@@ -1,7 +1,7 @@
 # Hi there, I'm Osandi Hirimuthugoda! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Intern+%40+Virtusa;Flutter+%7C+React+%7C+Node.js+%7C+Python;Published+Researcher+%7C+3+Conferences;🏆+IDEATHON+1.0+Winner+%7C+PlymHack+Top+8;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+Intern+%40+Virtusa;Flutter+%7C+React+%7C+Node.js+%7C+Python;Published+Researcher+%40+ICACT+2025+%26+KDU-IRC+25;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ---
