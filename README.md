@@ -1,7 +1,7 @@
 # Hi there, I'm Osandi Hirimuthugoda! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+Intern+%40+Virtusa;Flutter+%7C+React+%7C+Node.js+%7C+Python;Published+Researcher+%40+ICACT+2025+%26+KDU-IRC+25;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Intern+%40+Virtusa;Flutter+%7C+React+%7C+Node.js+%7C+Python;Published+Researcher+%7C+3+Conferences;🏆+IDEATHON+1.0+Winner+%7C+PlymHack+Top+8;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,8 +10,8 @@
 
 - 💼 **Full Stack Developer Intern @ [Virtusa](https://www.virtusa.com/)** — gaining real-world industry experience
 - 🎓 Final Year Software Engineering undergraduate at **NSBM Green University**
-- 🔬 Published researcher at **ICACT 2025** and **KDU-IRC 2025**
-- 💻 Passionate about building impactful, user-focused applications
+- 🔬 Published researcher at **3 international conferences** — ICACT 2025, KDU-IRC 2025, NSRSIT 2025
+- 🏆 **1st Place Winner** at IDEATHON 1.0 | **Top 8 Finalist** at Green.EXE 3.0 | **NBQSA 2025** participant
 - 🌱 Always learning and exploring new technologies
 - 📁 **26 repositories** and counting!
 - 🤝 Open to collaborating on interesting projects
@@ -64,10 +64,21 @@
 
 ## 📝 Research & Publications
 
+### 📄 NSRSIT 2025 — NSBM Green University ⭐ First Author & Presenter
+> **GoWay: A Smartphone-based Public Transport Service for Urban Sri Lanka**
+
+A research paper on a smart mobile application designed to modernize public transport in Sri Lanka — presented and published at the NSRSIT 2025 Research Symposium. Served as **first author and presenter**.
+
+`Smart Transport` `Mobile App` `Urban Mobility` `Software Engineering`
+
+*Supervised by Ms. Thisarani Wickramasinghe | Team: Isuri Dharmarathne, Nadeeja Keerthirathna, Miyuru Dilakshan*
+
+---
+
 ### 📄 ICACT 2025 — NSBM Green University
 > **Smart Ambient Respiratory Monitoring for COVID-19 Detection in Public Spaces**
 
-A conceptual research paper exploring an IoT & AI-powered ambient respiratory monitoring system designed to support COVID-19 detection in public environments — contributing toward more intelligent and proactive public health solutions.
+A conceptual research paper exploring an IoT & AI-powered ambient respiratory monitoring system designed to support COVID-19 detection in public environments.
 
 `IoT` `AI in Healthcare` `HealthTech` `COVID-19 Research`
 
@@ -79,6 +90,17 @@ A conceptual research paper exploring an IoT & AI-powered ambient respiratory mo
 > **Research Paper — Published at KDU International Research Conference 2025**
 
 *Supervised by Ms. Thisarani Wickramasinghe*
+
+---
+
+## 🏅 Achievements & Awards
+
+| Award | Event | Details |
+|-------|-------|---------|
+| 🥇 **1st Place** | IDEATHON 1.0 — Compuvate Association, NSBM | *SliiHub / SkillHub* — an innovative education platform. Judged by industry leaders from Virtusa & NSBM |
+| 🏆 **Top 8 Finalist** | Green.EXE 3.0 — NSBM Green University | Selected among the top 8 finalists |
+| 🌍 **6th Place** | PlymHack 2026 — University of Plymouth | Team Ascension — competed among top 8 teams internationally |
+| 🎖️ **Participant** | NBQSA 2025 — National ICT Awards | Represented *SliiHub* project at national level ICT awards |
 
 ---
 
@@ -112,7 +134,7 @@ A conceptual research paper exploring an IoT & AI-powered ambient respiratory mo
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark" />
